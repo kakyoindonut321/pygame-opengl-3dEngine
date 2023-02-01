@@ -1,0 +1,15 @@
+{
+  "created_at": "2023-01-29T21:53:45.917323",
+  "version": "0.1",
+  "mtllibs": [
+    "garfield.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "mesh0882mat",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 181632
+    }
+  ]
+}
